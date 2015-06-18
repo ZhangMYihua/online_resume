@@ -2,9 +2,11 @@
   display: inline;
 }
 
-#name {
-  text-align: right;
-  font-family: 'Lobster Two';
+body h1 {
+font-family: 'Lobster Two';
+}
+body p {
+font-family: 'Raleway';
 }
 
 #name span {
@@ -12,9 +14,6 @@
   font-family: 'Lobster Two';
 }
 
-body {
-  font-family: 'Lobster Two', serif;
-  font-size: 48px;
-  text-shadow: 4px 4px 4px #aaa;
+a, a:visited, a:active {
+  color: #f37813;
 }
-
