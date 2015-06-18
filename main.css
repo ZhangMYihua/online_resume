@@ -1,3 +1,20 @@
 .nav li {
   display: inline;
 }
+
+#name {
+  text-align: right;
+  font-family: 'Lobster Two';
+}
+
+#name span {
+  color: #f37813;
+  font-family: 'Lobster Two';
+}
+
+body {
+  font-family: 'Lobster Two', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
