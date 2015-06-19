@@ -1,3 +1,19 @@
 .nav li {
   display: inline;
 }
+
+body h1 {
+font-family: 'Lobster Two';
+}
+body p {
+font-family: 'Raleway';
+}
+
+#name span {
+  color: #f37813;
+  font-family: 'Lobster Two';
+}
+
+a, a:visited, a:active {
+  color: #f37813;
+}
