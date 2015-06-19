@@ -2,11 +2,27 @@
   display: inline;
 }
 
+body {
+  background: url('images/crossword.png');
+}
+
 body h1 {
 font-family: 'Lobster Two';
 }
 body p {
 font-family: 'Raleway';
+}
+
+#name {
+  font-size: 36pt;
+}
+
+.circle {
+  border-radius: 50%;
+  border-width: 5px;
+  border-color: #000;
+  border-style: solid;
+  margin-top: 15px;
 }
 
 #name span {
